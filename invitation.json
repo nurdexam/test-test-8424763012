@@ -1,0 +1,29 @@
+{
+  "groom": "test",
+  "bride": "test",
+  "date": "15 test 2026",
+  "time": "19:00\\",
+  "dateTime": "",
+  "venue": "test]",
+  "address": "test",
+  "coverImage": "/invitation/cover.jpg",
+  "music": "/music/toy.mp3",
+  "gallery": [
+    "/invitation/photo-1.jpg",
+    "/invitation/photo-2.jpg",
+    "/invitation/photo-3.jpg",
+    "/invitation/photo-4.jpg",
+    "/invitation/photo-5.jpg",
+    "/invitation/photo-6.jpg",
+    "/invitation/photo-7.jpg",
+    "/invitation/photo-8.jpg",
+    "/invitation/photo-9.jpg",
+    "/invitation/photo-10.jpg"
+  ],
+  "events": [
+    {
+      "time": "19:00\\",
+      "title": "Тойдың басталуы"
+    }
+  ]
+}
